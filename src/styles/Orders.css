@@ -1,0 +1,8 @@
+.ordertable tr th{
+    background-color: #54442e;
+    color: white;
+    text-align: center;
+}
+.ordertable tr td{   
+    text-align: center;
+}

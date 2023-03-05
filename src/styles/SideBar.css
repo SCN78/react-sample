@@ -1,0 +1,23 @@
+.menubutton{
+    width: 100%;
+}
+.menubuttongroup{
+    padding: 10px;
+}
+.menubuttongroup button{
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+/* .menubuttongroup :hover{
+    background: rgb(156, 49, 49);
+    color: white;
+} */
+.active{
+    background-color: rgb(51, 51, 110);
+    color: whitesmoke;
+}
+/* .menubuttongroup .button :hover{
+    background-color: rgb(156, 49, 49);
+    color: white;
+} */
